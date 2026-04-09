@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "core_insights_contents",
+  "info": {
+    "singularName": "core-insights-content",
+    "pluralName": "core-insights-contents",
+    "displayName": "CoreInsightsContent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "page": {
+      "type": "string",
+      "required": true
+    },
+    "element": {
+      "type": "string",
+      "required": true
+    },
+    "detail": {
+      "type": "string",
+      "required": true
+    },
+    "content": {
+      "type": "customField",
+      "customField": "plugin::ckeditor5.CKEditor",
+      "options": {
+        "preset": "defaultHtml"
+      },
+      "required": true
+    },
+    "language": {
+      "type": "enumeration",
+      "required": true,
+      "default": "en",
+      "enum": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "ja",
+        "ko"
+      ]
+    }
+  }
+}

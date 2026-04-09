@@ -1,0 +1,2594 @@
+[
+  {
+    "data": {
+      "page": "home",
+      "element": "kpi_average_do2i",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average DO2i during cross-clamp for CŌRE Procedures during mild hypothermia or normothermic periods."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average DO2i has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "kpi_average_map",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average MAP during cardiopulmonary bypass for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average MAP has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "kpi_cpb_initiation_hct_change",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average Hct change at cardiopulmonary bypass initiation for CŌRE Procedures. This is the last Hct pre-CPB - first Hct during CPB."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46-90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average CPB initiation Hct Change has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, last pre-CPB; hematocrit, first CPB."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "kpi_hct_at_end_of_surgery",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average Hct at end of surgery for CŌRE Procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46-90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average hematocrit at the end of surgery has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, end of surgery."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "kpi_total_case_count",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Total Case Count is the total number of non-cancelled cardiac surgical encounters. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) case count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "table_pso_overview",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All Patient Safety Organization (PSO) Non-Routine Event (NRE) reports with a default sort order by report completion date (descending). Clicking the report number opens the full NRE report findings in a new tab."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "home",
+      "element": "table_case_list",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The last 100 cases performed with a default sort order by encounter date. Clicking the date will navigate to additional case details."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "kpi_case_count",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Total Case Count is the total number of non-cancelled cardiac surgical encounters. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) case count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "kpi_cpb_count",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: CPB Case Count is the total number of non-cancelled cardiac surgical encounters involving cardiopulmonary bypass. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) CPB Case Count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "kpi_aki_rate",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The number of CŌRE Procedures using cardiopulmonary bypass that develop at least stage 1 AKI as defined by KDIGO serum creatinine criteria at 48 hours post operation divided by the total number of non-redo, non-emergent common procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend comparison made to the 45 most recent preceding days (i.e., days 46–90)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day AKI rate has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; AKI, KDIGO Criteria."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "kpi_urgent_case_count",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Urgent Case status case count is the total number of non-cancelled cardiac surgical encounters with urgent case status. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) case count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: case status, urgent."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "kpi_number_of_diabetics",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Total Diabetic Case Count is the total number of non-cancelled cardiac surgical encounters with a diabetic patient. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) case count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: Diabetes."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "chart_procedure_type",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases (CPB and standby) performed during the most recently complete 12-month period. Procedures are coded by perfusion staff at the time of surgery."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recently complete 12-month period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: procedure, CAB; procedure, Valve; procedure, CAB + Valve; procedure, Other."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: This chart shows the hospital’s overall consistency measure compared with the Orrum Average. It is a composite of four consistency measures, specifically for Hemodilution, Oxygen Delivery, Mean Arterial Pressure, and Glucose consistency. Each of these reflects how similar the underlying parameters are across the hospital’s recent CŌRE procedures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Hospital consistency is computed on the last 60 complete CŌRE procedures performed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: Hospital consistency does not indicate whether the hospital performs better or worse than the Orrum Average. It is simply a descriptive measure of how consistent parameters are across CŌRE procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "chart_procedure_start_time",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases (CPB and standby) performed during the most recently complete 12-month period. Case status is coded by perfusion staff at the time of surgery. Procedure start time is defined by the “Patient in Room Time” recorded by perfusion staff."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recently complete 12-month period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: case status."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "chart_case_volume_by_perfusionist",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases (CPB and standby) performed during the most recently complete 12-month period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recently complete 12-month period."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "program_overview",
+      "element": "case_volume_trend",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases (CPB and standby) performed during the most recently complete 12-month period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recently complete 12-month period."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "kpi_average_hct_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average Hct (Hct) during CPB for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average Hct has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, CPB average."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "kpi_nadir_hct_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Lowest Hct during cardiopulmonary bypass for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average lowest Hct during CPB has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, CPB lowest."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "kpi_hct_change_at_cpb_initiation",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average Hct change at cardiopulmonary bypass initiation for CŌRE Procedures. This is the last Hct pre-CPB - first Hct during CPB."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46-90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average CPB initiation Hct Change has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, last pre-CPB; hematocrit, first CPB."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "kpi_hct_at_end_of_surgery",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average Hct at end of surgery for CŌRE Procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46-90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average hematocrit at the end of surgery has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, end of surgery."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: This chart shows the hospital's overall Hemodilution consistency measure compared with the Orrum Average. It combines six parameters, namely the average, nadir and first hematocrit during CPB, as well as last hematocrit in the room, hematocrit change at the start of CPB and the number of minutes during CPB that hematocrit was below 21%. Each consistency measure reflects how similar these parameters are across the hospital's recent CŌRE procedures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Hospital consistency is computed on the last 60 complete CŌRE procedures performed. Orrum consistency is computed on the most recent complete quarter among all participating hospitals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: Hospital consistency does not indicate whether the hospital performs better or worse than the Orrum Average. It is simply a descriptive measure of how consistent parameters are across CŌRE procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "chart_hct_change_with_cpb_initiation",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The absolute Hct change at cardiopulmonary bypass initiation for the most recent 30 CŌRE Procedures for each perfusionist. Hct change at CPB initiation is the last Hct pre-CPB − first Hct during CPB."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, first intraoperative; hematocrit, last intraoperative."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The box section represents the middle 50% of all observations (last 30 cases) (25th percentile to 75th percentile)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The point in the box section (color change) represents the median value of the 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The upper whisker shows the maximum non-outlier value (within 75th percentile + 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The lower whisker shows the minimum non-outlier value (within 25th percentile - 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "chart_nadir_hct_distribution_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The lowest Hct during cardiopulmonary bypass for CŌRE Procedures by each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, lowest CPB."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: This ridge plot indicates the relative frequency of each individual perfusionist’s lowest Hct value on CPB. Peaks represent more common values."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "chart_hct_start_and_end_of_surgery",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The first Hct in the room and the last Hct in the room for most recent 30 CŌRE Procedures by each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, first intraoperative; hematocrit, last intraoperative."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: This violin chart indicates the relative frequency of each individual perfusionist’s first and last intraoperative Hct. The relative frequency plot for the first intraoperative Hct is light blue, and last intraoperative Hct is dark blue. The average values for each variable are represented as a dashed line."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "hemodilution",
+      "element": "chart_average_hct_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average Hct during cardiopulmonary bypass for the most recent 100 CŌRE Procedures performed at this location."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hematocrit, CPB average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: This statistical process control chart shows:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Individual average Hct for each of the last consecutive 100 cases (points)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The overall unweighted average of all cases (solid middle line)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Upper and lower control limits set at group average ± two standard deviations (light blue lines)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "kpi_average_dO2i_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average DO2i during cross-clamp for CŌRE Procedures during mild hypothermia or normothermic periods."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average DO2i has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "kpi_nadir_dO2i_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The lowest oxygen delivery DO2i during cross-clamp for CŌRE Procedures during mild hypothermia or normothermic periods."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average nadir DO2i has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "kpi_average_hct_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days with trend compared to the prior 45 days (days 46–90)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: Green indicates an increase vs. the prior period; red indicates a decrease."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "kpi_final_lactate_iop",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average lactate at the end of surgery for CŌRE Procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average lactate at the end of surgery has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; lactate, intraoperative last."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "kpi_pH_change_iop",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average pH change at surgery end for CŌRE Procedures. This is the difference from first intraoperative pH to last intraoperative pH."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average pH change at the end of surgery has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; pH, intraoperative first; pH, intraoperative last; pH, intraoperative change."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: This chart shows the hospital’s overall Oxygen Delivery consistency measure compared with the Orrum Average. It combines four parameters, namely the average DO2i during cross-clamp, the number of minutes DO2i is below 280 during cross-clamp, the average cardiac index during cross-clamp, and the average SvO2 during CPB. Each consistency measure reflects how similar these parameters are across the hospital’s recent CŌRE procedures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Hospital consistency is computed on the last 60 complete CŌRE procedures performed. Orrum consistency is computed on the most recent complete quarter among all participating hospitals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: Hospital consistency does not indicate whether the hospital performs better or worse than the Orrum Average. It is simply a descriptive measure of how consistent parameters are across CŌRE procedures"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "chart_do2i_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average DO2i during the cross-clamp in normothermic or mildly hypothermic periods over the most recent CŌRE Procedures by each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: The chart shows the average proportion of time spent in three distinct DO2i bands (< 260, 261–300, and > 300 mL O2/min/m2)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "chart_average_do2i_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average DO2i during normothermic or mildly hypothermic cross-clamp periods for the most recent 30 CŌRE Procedures for each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The box section represents the middle 50% of all observations (last 30 cases)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The point in the box section where the color changes represents the median value of the 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The upper whisker shows the maximum non-outlier value (within 75th percentile + 1.5 times the inter-quartile range)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The lower whisker shows the minimum non-outlier value (within 25th percentile − 1.5 times the inter-quartile range)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "chart_hematocrit_vs_cardiac_index_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average DO2i during normothermic or mildly hypothermic cross-clamp period for the most recent 100 CŌRE Procedures for each site plotted against the average hematocrit and average cardiac index during the same period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Show DO2i’ toggles labels for average DO2i for each point."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Performance boxes toggle reference ranges for three distinct DO2i bands (< 260, 261–300, and > 300 mL O2/min/m2)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Highlighting colors for perfusionist, chronic kidney disease status, and acute kidney injury can be toggled on by the pull-down menu."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "oxygen_delivery",
+      "element": "control_chart_average_do2i_during_xc",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average DO2i during cross-clamp in normothermic or mild hypothermic period for the most recent 100 CŌRE Procedures performed at this location."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; hypothermia, mild; hypothermia, normothermia; oxygen delivery (DO2i & eDO2i)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: This statistical process control chart shows:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Individual average DO2i for each of the last consecutive 100 cases (points)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The overall unweighted average of all cases (solid middle line)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Upper and lower control limits are set at group average ± two standard deviations."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "kpi_average_map_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average MAP during cardiopulmonary bypass for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average MAP has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "kpi_minutes_map_below_60_mmhg_iop",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days with trend compared to the prior 45 days (days 46–90)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: Green indicates an increase vs. the prior period; red indicates a decrease."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "kpi_minutes_map_below_60_mmhg_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days with trend compared to the prior 45 days (days 46–90)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: Green indicates an increase vs. the prior period; red indicates a decrease."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "kpi_average_indexed_vascular_resistance_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average systemic vascular resistance index (SVRI) for non-redo, non-emergent common procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average indexed systemic vascular resistance has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; systemic vascular resistance index."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: This chart shows the hospital’s overall Mean Arterial Pressure consistency measure compared with the Orrum Average. It combines three parameters, namely the average MAP, the number of minutes that MAP was below 50 mmHg, and the Indexed Vascular Resistance, all computed during CPB. The consistency measure reflects how similar these parameters are across the hospital’s recent CŌRE procedures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Hospital consistency is computed on the last 60 complete CŌRE procedures performed. Orrum consistency is computed on the most recent complete quarter among all participating hospitals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: Hospital consistency does not indicate whether the hospital performs better or worse than the Orrum Average. It is simply a descriptive measure of how consistent parameters are across CŌRE procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "chart_map_distribution_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average MAP during cardiopulmonary bypass over the most recent 30 CŌRE Procedures by each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: The chart shows the average proportion of time spent four distinct MAP bands (< 50, 50-59, 60-69, and >= 70 mmHg)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "chart_map_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average MAP during cardiopulmonary bypass for the most recent 30 CŌRE Procedures for each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The box section represents the middle 50% of all observations (last 30 cases) (25th percentile to 75th percentile)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The point in the box section where the color changes represents the median value of the 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The upper whisker shows the maximum non-outlier value (within 75th percentile + 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The lower whisker shows the minimum non-outlier value (within 25th percentile − 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "chart_vascular_resistance_vs_cardiac_index",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average MAP during cardiopulmonary bypass for the most recent 100 CŌRE Procedures for each site plotted against the average vascular resistance and average cardiac index during the same period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; systemic vascular resistance index."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Show MAP’ toggles labels for average MAP for each point."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Highlighting colors for perfusionist, chronic kidney disease status (as defined by the National Kidney Foundation), and acute kidney injury (as defined by the Kidney Disease Improving Global Outcomes) can be toggled on by the pull-down menu."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "mean_arterial_pressure",
+      "element": "control_chart_map_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average MAP during cardiopulmonary bypass for the most recent 100 CŌRE Procedures performed at this location."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Individual average MAP for each of the last consecutive 100 cases (points)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The overall unweighted average of all cases (solid middle line)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Upper and lower control limits set at group average ± two standard deviations (light blue lines)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "kpi_average_glucose_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Average glucose during cardiopulmonary bypass for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average glucose has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; glucose, CPB mean."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "kpi_peak_glucose_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average maximum glucose during cardiopulmonary bypass for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average maximum glucose has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; glucose, CPB peak."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "kpi_peak_glucose_intraoperative",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average maximum glucose during the intraoperative period for CŌRE Procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average maximum glucose has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; glucose, intraoperative peak."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "kpi_cpb_minutes_glucose_over_180",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The sum of minutes during cardiopulmonary bypass for CŌRE Procedures with a blood glucose level greater than 180 mg/dL."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day average minutes with glucose > 180 mg/dL has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "kpi_number_of_diabetics",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: Total Diabetic Case Count is the total number of non-cancelled cardiac surgical encounters with a diabetic patient. Cancelled cases, even those cancelled after the patient enters the room, are removed from the case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend Comparison made to the prior 45 days (i.e., 46–90 days)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent (days 1–45) case count has increased (green) or decreased (red) compared to preceding (days 46–90) case count."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: Diabetes."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: This chart shows the hospital’s overall Glucose consistency measure compared with the Orrum Average. It combines four parameters, namely the average and maximum glucose during CPB, the number of minutes glucose was above 180 mg/dL during CPB, and the overall intraoperative glucose change. Each consistency measure reflects how similar these parameters are across the hospital’s recent CŌRE procedures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Hospital consistency is computed on the last 60 complete CŌRE procedures performed. Orrum consistency is computed on the most recent complete quarter among all participating hospitals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: Hospital consistency does not indicate whether the hospital performs better or worse than the Orrum Average. It is simply a descriptive measure of how consistent parameters are across CŌRE procedures."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "chart_glucose_distribution_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average glucose during cardiopulmonary bypass over the most recent 30 CŌRE Procedures by each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: The chart shows the average proportion of time spent in three distinct serum glucose bands (< 80 mg/dL, 80–180 mg/dL, and > 180 mg/dL)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "chart_average_glucose_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average glucose during cardiopulmonary bypass for the most recent 30 CŌRE Procedures for each perfusionist."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The box section represents the middle 50% of all observations (last 30 cases) (25th percentile to 75th percentile)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The point in the box section where the color changes represents the median value of the 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The upper whisker shows the maximum non-outlier value (within 75th percentile + 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The lower whisker shows the minimum non-outlier value (within 25th percentile − 1.5 times the inter-quartile range) observed in the last 30 cases."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "chart_starting_glucose_vs_glucose_change_during_cpb",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The average glucose during cardiopulmonary bypass for the most recent 100 CŌRE Procedures for each site plotted against the starting glucose and change in glucose during the same period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; glucose, starting; glucose, average CPB; glucose, change during CPB."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Highlighting colors for perfusionist, surgeon, and diabetes status can be toggled on by the pull-down menu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bubble size can be made proportional to cardioplegia volume administered, peak CPB glucose, and minutes spent with glucose > 180 mg/dL during CPB."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "glucose",
+      "element": "control_chart_intraoperative_peak_glucose",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The maximum glucose during the intraoperative period for the most recent 100 CŌRE Procedures performed at this location."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: This statistical process control chart shows:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Individual maximum glucose value during the intraoperative period for each of the last consecutive 100 cases (points)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "The overall unweighted average of all cases (solid middle line)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Upper and lower control limits set at group average ± two standard deviations (light blue lines)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "aki_outcomes",
+      "element": "chart_aki_rates_by_perfusionist",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases from the most recent quarter of complete intra-operative and post-operative data available. Post-operative data is shared by participating sites as it becomes available. This is typically at least two to three months prior to the current date."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: The chart shows the stacked percentage of cases by KDIGO AKI classification (No AKI, stage 1, stage 2, stage 3)."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "aki_outcomes",
+      "element": "chart_average_do2i_to_aki_correlation",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases from the most recent quarter of complete intra-operative and post-operative data available. Post operative data is shared by participating sites as it becomes available. This is typically at least two to three months prior to the common date."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details: The Sankey chart shows case volume separated by average DO2i bands during normothermic or mild hypothermic cross-clamp period (>300 ml O₂ / min / m², 260-300 ml O₂ / m², < 260 ml O₂ / min / m²). The chart then categories the KDIGO AKI staging for each of those bands."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "aki_outcomes",
+      "element": "chart_do2i_vs_map",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: All cases from the most recent quarter of complete intra-operative and post-operative data available. Post operative data is shared by participating sites as it becomes available. This is typically at least two to three months prior to the common date."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chart details:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This compares average DO2i during normothermic and mildly hypothermic cross-clamp periods with MAP and shows how patients progressed to various KDIGO AKI stages (or not)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "This is meant to quickly compare to known factors for AKI—hypotension and low oxygen delivery."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "aki_outcomes",
+      "element": "tables_aki_overall",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data source: The number of CŌRE Procedures using cardiopulmonary bypass that develop at least stage 1 AKI as defined by KDIGO serum creatinine criteria at 48 hours post operation divided by the total number of non-redo, non-emergent common procedures using cardiopulmonary bypass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: Most recent 45 days. Trend comparison made to the 45 most recent preceding days (i.e., days 46–90)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Color: If the most recent 45 day AKI rate has increased (green) or decreased (red) compared to preceding 45 day (day 46–day 90) average."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Dictionary terms: common procedures; AKI, KDIGO Criteria."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "page": "case_details",
+      "element": "chart_consistency_measure",
+      "detail": "info_button",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Data Source: This chart shows the procedure's consistency. It combines four measures, namely the Hemodilution, MAP, Oxygen Delivery, and Glucose consistency for the procedure. Each specific measure indicates how stable that parameter is throughout the procedure, capturing both the presence of outliers and the degree of fluctuation over the selected time period. The overall case measure is a composite of the four measures. More details on the calculations can be found in the FAQs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Period: The case's procedure consistency is measured on the cross-clamp period for Oxygen Delivery, CPB period for Hemodilution and MAP, and the entire intra-operative period for Glucose. The case measure reflects the consistency of the entire procedure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Important Note: The consistency measure does not indicate how well the procedure performance was. It is simply a descriptive measure of how consistent parameters are held during the procedure."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
